@@ -1,2 +1,7 @@
 fastapi
 uvicorn
+pydantic
+python-jose
+python-multipart
+mysql-connector-python
+starlette
